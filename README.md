@@ -1,0 +1,4 @@
+algorithm
+=========
+
+some common algorithm
